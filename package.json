@@ -1,0 +1,30 @@
+{
+  "name": "new-vue3",
+  "version": "1.0.0",
+  "description": "Fresh app with Vue3, Vite and Tailwindcss",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.3.11",
+    "vue-i18n": "^9.8.0",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.10",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "@vue/runtime-core": "^3.3.4",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.27",
+    "sass": "^1.64.2",
+    "tailwindcss": "^3.3.3",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5",
+    "vue-tsc": "^1.8.5"
+  }
+}

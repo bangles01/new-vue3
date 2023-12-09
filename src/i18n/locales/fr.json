@@ -1,0 +1,6 @@
+{
+  "home": {
+    "welcome": "Welcome to the {name} app",
+    "name": "New Vue3"
+  }
+}
